@@ -18,5 +18,3 @@ A 2D twin-stick shooter prototype built in Unity (C#) featuring multiple levels,
 2. Open the project in Unity Hub
 3. Press Play
 
-## Screenshots
-(Add screenshots here)
